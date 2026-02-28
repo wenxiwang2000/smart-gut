@@ -21,6 +21,7 @@ SmartGut performs:
 The system outputs an annotated tracking video and exports ROI coordinates and matching scores for downstream quantitative analysis.
 
 ---
+![SmartGut workflow guide](docs/SmartGut_page2.png)
 [SmartGut_page2.tiff](https://github.com/user-attachments/files/25622638/SmartGut_page2.tiff)
 
 
