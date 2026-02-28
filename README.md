@@ -21,6 +21,8 @@ SmartGut performs:
 The system outputs an annotated tracking video and exports ROI coordinates and matching scores for downstream quantitative analysis.
 
 ---
+[SmartGut_page2.tiff](https://github.com/user-attachments/files/25622638/SmartGut_page2.tiff)
+
 
 ## Core Pipeline
 
@@ -71,4 +73,4 @@ The system outputs an annotated tracking video and exports ROI coordinates and m
 
 ```bash
 python combine_and_match.py test.mp4
-<img width="434" height="546" alt="image" src="https://github.com/user-attachments/assets/f00fda06-c04f-4c1c-bf30-d40dc56a7f1c" />
+
