@@ -1,5 +1,8 @@
-# 🫀 SmartGut
+## 🔒 Research Notice
 
+Some core mathematical components of the algorithm are currently withheld and will be released after the associated research publication.
+
+# 🫀 SmartGut
 **SmartGut** is an automated video-analysis pipeline for **detecting, tracking, and quantifying gut contraction regions of interest (ROIs)** in fruit fly microscopy videos.
 
 The system combines **classical computer vision** with a **lightweight deep-learning classifier** to enable robust and reproducible contraction analysis from time-series imaging data.
