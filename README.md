@@ -123,7 +123,7 @@ This independent validation layer improves robustness in difficult imaging condi
 |:--------------------:|:-------------:|
 | ![](https://github.com/user-attachments/assets/86b49f28-59c1-457a-bba1-0bce4b2f6989) | ![](https://github.com/user-attachments/assets/ed18a457-1848-44cb-bbdc-3b8789c846cb) |
 
-| ROI classification | Temporal tracking |
+| Canony Filltering | Temporal tracking |
 |:------------------:|:-----------------:|
 | ![](https://github.com/user-attachments/assets/9050ba76-c532-4e08-87a5-d7dcaaba81b0) | ![](https://github.com/user-attachments/assets/d946c0bc-f145-4270-976e-1ca5db9ed4d9) |
 
