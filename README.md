@@ -119,9 +119,9 @@ This independent validation layer improves robustness in difficult imaging condi
 
 # 📊 Example Detection Results
 
-| Raw microscopy frame | ROI detection |
+| microscopy detecting | Raw microscopy frame | 
 |:--------------------:|:-------------:|
-| ![](https://github.com/user-attachments/assets/86b49f28-59c1-457a-bba1-0bce4b2f6989) | ![](https://github.com/user-attachments/assets/ed18a457-1848-44cb-bbdc-3b8789c846cb) |
+| ![](https://github.com/user-attachments/assets/ed18a457-1848-44cb-bbdc-3b8789c846cb) | ![](https://github.com/user-attachments/assets/86b49f28-59c1-457a-bba1-0bce4b2f6989) |
 
 | Canony Filltering | Temporal tracking |
 |:------------------:|:-----------------:|
